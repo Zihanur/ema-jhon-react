@@ -9,11 +9,11 @@
   margin: 50px;
 }
 .cart-container{
+  height: 550px;
+  position: sticky;
+  top: 0;
   padding: 20px;
   font-size: 18px;
   color: #1C2B35;
   background-color:  #fbdaa8;
-}
-.cart-container h1{
-  text-align: center;
 }
