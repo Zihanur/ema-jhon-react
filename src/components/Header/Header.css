@@ -1,0 +1,22 @@
+.header{
+  width: 100%;
+  background-color: #1C2B35;
+  color: #ffffff;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header img{
+  margin-left: 100px;
+}
+.navbar{
+  margin-right: 90px;
+}
+.navbar a{
+  font-size: 17px;
+  text-decoration: none;
+  color: #ffffff;
+  margin-left: 25px;
+}
